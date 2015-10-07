@@ -7,3 +7,7 @@ I will be using this README to track my own progress on the assignment, by listi
 
 October 3:
 	Created the folder, initialized NPM, set up README.
+
+October 7:
+	Added "about" page.
+	
