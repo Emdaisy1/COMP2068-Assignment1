@@ -7,3 +7,10 @@ router.get('/', function(req, res, next) {
 });
 
 module.exports = router;
+
+//Get about page
+router.get('/about', function (req, res, next) {
+    res.render('about');
+});
+module.exports = router;
+
