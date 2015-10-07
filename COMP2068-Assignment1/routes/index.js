@@ -14,3 +14,24 @@ router.get('/about', function (req, res, next) {
 });
 module.exports = router;
 
+//Get products page
+router.get('/projects', function (req, res, next) {
+    res.render('projects');
+});
+module.exports = router;
+
+//Get services page
+router.get('/services', function (req, res, next) {
+    res.render('services');
+});
+module.exports = router;
+
+//Get contact page
+router.get('/contact', function (req, res, next) {
+    res.render('contact');
+});
+module.exports = router;
+
+
+
+
