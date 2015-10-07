@@ -9,5 +9,5 @@ October 3:
 	Created the folder, initialized NPM, set up README.
 
 October 7:
-	Added "about" page.
+	Added "about", "contact", "projects", and "services" pages, as well as their routes in the index.js file.
 	
