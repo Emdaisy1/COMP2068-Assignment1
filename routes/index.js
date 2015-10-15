@@ -1,3 +1,10 @@
+/*
+ * File name: index.ejs
+ * Author's name: Emma Hilborn
+ * Website name: http://emmavhilborn.azurewebsites.net/
+ * Description: This is the file that contains the express routes for all my views
+ /*
+
 var express = require('express');
 var router = express.Router();
 
